@@ -1,6 +1,6 @@
 {
-  "name": "components-molecules-paginations",
-  "repository": "https://github.com/elsiosanchez/molecules-paginations.git",
+  "name": "Pages",
+  "repository": "https://github.com/elsiosanchez/pages-basic.git",
   "author": "elsiosanchez <elsiosanches@gmail.com>",
   "private": true,
   "scripts": {
